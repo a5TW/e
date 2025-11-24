@@ -5,6 +5,8 @@
   <p align="center">
     A list of links for you to use when you don't have an address bar.
     <br />
+    <a href="https://poopy.site">poopy.site</a>
+    ·
     <a href="https://poopy.site/redirector">Redirector</a>
     ·
     <a href="https://github.com/a5tw/interferencebravecivilian/issues/new">Suggestions</a>
@@ -26,14 +28,14 @@ The [redirector](https://poopy.site/redirector) lets you visit any site by just 
 5. [Piracy](#piracy)
 6. [Extras](#extras)
 
-## Run by [@legendaryfishwastaken](https://github.com/legendaryfishwastaken)
-- 🐐[Free Movies - lfdev.site](https://nova.lfdev.site/), [2](https://movies.lfdev.site/)
-- ⭐[Free Books - pdsb.online](https://pdsb.online/books/)
-- [Unblocked Games - lfdev.site](https://games.lfdev.site/)
-- [Site Unblocker - pdsb.online](https://pdsb.online/proxy)
-- [Minecraft 1.5 (Eaglercraft) - pdsb.online](https://pdsb.online/minecraft)
-- [Free TV Channels - pdsb.online](https://pdsb.online/channels)
-- [Celeste in Your Browser - pdsb.online](https://pdsb.online/celeste)
+## ~~Run by [@legendaryfishwastaken](https://github.com/legendaryfishwastaken)~~
+- ~~🐐[Free Movies - lfdev.site](https://nova.lfdev.site/), [2](https://movies.lfdev.site/)~~
+- ~~⭐[Free Books - pdsb.online](https://pdsb.online/books/)~~
+- ~~[Unblocked Games - lfdev.site](https://games.lfdev.site/)~~
+- ~~[Site Unblocker - pdsb.online](https://pdsb.online/proxy)~~
+- ~~[Minecraft 1.5 (Eaglercraft) - pdsb.online](https://pdsb.online/minecraft)~~
+- ~~[Free TV Channels - pdsb.online](https://pdsb.online/channels)~~
+- ~~[Celeste in Your Browser - pdsb.online](https://pdsb.online/celeste)~~
 
 ## Google Services
 - 🐐[Google](https://www.google.com/)
