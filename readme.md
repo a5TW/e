@@ -28,7 +28,7 @@ New redirector by erg [Redirector](https://ergwastaken.github.io/redirector/)
 6. [Piracy](#piracy)
 7. [Extras](#extras)
 
-## Run by [@legendaryfishwastaken](https://github.com/legendaryfishwastaken)
+## Run by [@ergwastaken](https://github.com/ergwastaken)
 - 🐐[Redirector]([https://nova.lfdev.site/](https://ergwastaken.github.io/redirector/))
 
 ## ~~Run by [@legendaryfishwastaken](https://github.com/legendaryfishwastaken)~~
