@@ -29,7 +29,7 @@ New redirector by erg [Redirector](https://ergwastaken.github.io/redirector/)
 7. [Extras](#extras)
 
 ## Run by [@ergwastaken](https://github.com/ergwastaken)
-- 🐐[Redirector]([https://nova.lfdev.site/](https://ergwastaken.github.io/redirector/))
+- 🐐[Redirector](https://ergwastaken.github.io/redirector/)
 
 ## ~~Run by [@legendaryfishwastaken](https://github.com/legendaryfishwastaken)~~
 - ~~🐐[Free Movies - lfdev.site](https://nova.lfdev.site/), [2](https://movies.lfdev.site/)~~
