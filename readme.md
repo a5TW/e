@@ -20,12 +20,16 @@ New redirector by erg [Redirector](https://ergwastaken.github.io/redirector/)
 ⭐ = Really good
 
 ## Table of Contents
-~~1. [Run by @legendaryfishwastaken](#run-by-legendaryfishwastaken)~~
-2. [Google Services](#google-services)
-3. [Games](#games)
-4. [Quiz Games](#quiz-games)
-5. [Piracy](#piracy)
-6. [Extras](#extras)
+1. [Run by @ergwastaken](#run-by-ergwastaken)
+~~2. [Run by @legendaryfishwastaken](#run-by-legendaryfishwastaken)~~
+3. [Google Services](#google-services)
+4. [Games](#games)
+5. [Quiz Games](#quiz-games)
+6. [Piracy](#piracy)
+7. [Extras](#extras)
+
+## Run by [@legendaryfishwastaken](https://github.com/legendaryfishwastaken)
+- 🐐[Redirector]([https://nova.lfdev.site/](https://ergwastaken.github.io/redirector/))
 
 ## ~~Run by [@legendaryfishwastaken](https://github.com/legendaryfishwastaken)~~
 - ~~🐐[Free Movies - lfdev.site](https://nova.lfdev.site/), [2](https://movies.lfdev.site/)~~
